@@ -39,6 +39,7 @@ dependencies:
   path_provider: ^2.1.5
   audioplayers: ^6.2.0
   record: ^5.2.1
+  flutter_riverpod: ^2.6.1
 
 dev_dependencies:
   flutter_test:
